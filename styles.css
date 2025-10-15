@@ -1,2 +1,30 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:space-between;
+}
+.eg1{
+	background-color:red;
+	height:100px;
+	width:100px;
+	font-size:40px;
+	font-weight:bold;
+}
+.eg2{
+	background-color:blue;
+	height:100px;
+	width:100px;
+	font-size:40px;
+	font-weight:bold;
+}
+.eg3{
+	background-color:green;
+	height:100px;
+	width:100px;
+	font-size:40px;
+	font-weight:bold;
+	/* display:flex-box;
+	justify-content:left; */
+	
+}
